@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Ritesh kumar 
-- 💞️ I’m looking to collaborate on Web Development
