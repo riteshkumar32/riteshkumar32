@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ritesh Kumar
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin](https://www.linkedin.com/in/ritesh-kumar32/))]([https://www.linkedin.com/in/ritesh-kumar-iitkgp32](https://www.linkedin.com/in/ritesh-kumar32/)) [![Gmail](https://img.shields.io/badge/Gmail-contact-red?style=flat&logo=gmail)](mailto:ritesh.iitkgp32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritesh-kumar32/) [![Gmail](https://img.shields.io/badge/Gmail-contact-red?style=flat&logo=gmail)](mailto:ritesh.iitkgp32@gmail.com)
 
 ---
 
