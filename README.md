@@ -140,19 +140,6 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-kumar32&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-kumar32&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-kumar32&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
-</div>
-
----
-
 ##  Let's Connect
 
 <div align="center">
