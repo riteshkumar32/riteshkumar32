@@ -28,12 +28,21 @@ I enjoy building full stack applications and solving algorithmic problems.
 
 ## Competitive Programming
 
-CodeChef rating: 1800 (Div 2)  
-Codeforces: Specialist  
+CodeChef: 4★ (1800 rating)  
+Codeforces: Specialist (1508 rating)  
 
 Meta Hacker Cup 2025:  
 - Reached Round 2  
 - Rank 1214 in Round 2  
+- Certificate: https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2379924389101563  
+
+---
+
+## Certifications
+
+Graph Theory Programming Camp (AlgoUniversity)  
+- Completed advanced graph problems under mentorship  
+- Certificate: https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/graph_camp/ritesh-kumar.png  
 
 ---
 
@@ -47,3 +56,7 @@ Competitive Programming Templates
 - Collection of commonly used algorithms  
 
 ---
+
+## Note
+
+I am actively looking for software development opportunities.
