@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;MERN+Stack+Enthusiast+%F0%9F%94%A5;IIT+Kharagpur+%7C+Batch+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Enthusiast;IIT+Kharagpur+%7C+Batch+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -94,7 +94,7 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 
 | Platform | Handle | Rating / Rank |
 |:---:|:---:|:---:|
-|  **CodeChef** | [drak_byte](https://www.codechef.com/users/drak_byte) | ⭐⭐⭐⭐ **4 Star** · Rating **1800** |
+|  **CodeChef** | [drak_byte](https://www.codechef.com/users/drak_byte) |  **4 Star** · Rating **1800** |
 |  **Codeforces** | [K.riitesh061](https://codeforces.com/profile/K.riitesh061)) |  **Specialist** · Rating **1508** |
 |  **LeetCode** | [ritesh061](https://leetcode.com/u/ritesh061/) | Active Problem Solver |
 
