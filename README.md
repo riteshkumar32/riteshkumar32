@@ -47,7 +47,3 @@ Competitive Programming Templates
 - Collection of commonly used algorithms  
 
 ---
-
-## Note
-
-I am currently looking for software development opportunities.
