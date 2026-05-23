@@ -4,7 +4,6 @@ Institute  : IIT Kharagpur
 Batch      : 2027
 ```
 
-> *"Code is not just syntax — it's structured thinking made executable."*
 
 I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable full-stack applications and sharpening algorithmic problem-solving. I love the intersection of engineering elegance and practical software — from designing REST APIs to crafting efficient graph algorithms.
 
@@ -12,8 +11,6 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 
 ---
 ###  Meta Hacker Cup 2025
-
-> One of the most competitive global programming contests, with hundreds of thousands of participants worldwide.
 
 -  **Advanced to Round 2** out of global competition
 -  **Rank 1214** in Round 2
@@ -24,7 +21,7 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 ##  Certifications
 
 ### 🔗 Graph Theory Programming Camp — *AlgoUniversity*
-- Completed an intensive advanced graph theory curriculum under expert mentorship
+- Completed advanced graph theory curriculum under expert mentorship
 - Topics covered: Network flows, advanced shortest paths, tree algorithms, and more
 - 📄 [View Certificate](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/graph_camp/ritesh-kumar.png)
 
@@ -40,12 +37,4 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 -  RESTful API architecture with clean separation of concerns
 -  Modular, scalable codebase structure
 
----
-
-###  Competitive Programming Templates
-> A curated, battle-tested library of algorithmic templates for competitive programming.
-
-- Covers: Graphs, DP, Segment Trees, Binary Search, String algorithms, and more
-- Optimized implementations in **C++** for maximum performance
-- Built from real contest experience across Codeforces, CodeChef & Meta Hacker Cup
 
