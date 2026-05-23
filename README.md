@@ -20,7 +20,7 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 ### 🔗 Graph Theory Programming Camp — *AlgoUniversity*
 - Completed advanced graph theory curriculum under expert mentorship
 - Topics covered: Network flows, advanced shortest paths, tree algorithms, and more
-- 📄 [View Certificate](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/graph_camp/ritesh-kumar.png)
+-  [View Certificate](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/graph_camp/ritesh-kumar.png)
 
 ---
 
