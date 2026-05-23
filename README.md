@@ -18,8 +18,6 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 
 ---
 
-##  Certifications
-
 ### 🔗 Graph Theory Programming Camp — *AlgoUniversity*
 - Completed advanced graph theory curriculum under expert mentorship
 - Topics covered: Network flows, advanced shortest paths, tree algorithms, and more
