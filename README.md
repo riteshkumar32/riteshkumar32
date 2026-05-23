@@ -9,7 +9,6 @@ I'm an undergraduate at **IIT Kharagpur**, passionate about building scalable fu
 
 ---
 
----
 ###  Meta Hacker Cup 2025
 
 -  **Advanced to Round 2** out of global competition
