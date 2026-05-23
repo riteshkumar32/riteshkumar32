@@ -1,13 +1,7 @@
-##  About Me
-
 ```yaml
 Name       : Ritesh Kumar
 Institute  : IIT Kharagpur
 Batch      : 2027
-Location   : Kharagpur, West Bengal, India
-Portfolio  : https://riteshkumariitkgp27.vercel.app/
-Interests  : [Software Development, Competitive Programming, Backend Systems]
-Status     : Actively seeking Software Development opportunities
 ```
 
 > *"Code is not just syntax — it's structured thinking made executable."*
